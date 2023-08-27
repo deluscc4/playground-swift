@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		80483BB32A9A70EB00907DC4 /* script_desafio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = script_desafio1.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		80483BAC2A9A70D000907DC4 = {
+			isa = PBXGroup;
+			children = (
+				80483BB32A9A70EB00907DC4 /* script_desafio1.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		80483BAD2A9A70D000907DC4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+			};
+			buildConfigurationList = 80483BB02A9A70D000907DC4 /* Build configuration list for PBXProject "desafio1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 80483BAC2A9A70D000907DC4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		80483BB12A9A70D000907DC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		80483BB22A9A70D000907DC4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		80483BB02A9A70D000907DC4 /* Build configuration list for PBXProject "desafio1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80483BB12A9A70D000907DC4 /* Debug */,
+				80483BB22A9A70D000907DC4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 80483BAD2A9A70D000907DC4 /* Project object */;
+}
