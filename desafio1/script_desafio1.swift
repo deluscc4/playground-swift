@@ -11,7 +11,7 @@ import Foundation
 let constant = "Steve"
 // Declarando uma variável opcional de tipo string
 var optionalVariable: String? = "Jobs"
-// Declarando uma variável de valor default
+// Declarando uma variável de valor padrão (default)
 var defaultValue = "Wozniak"
 // Variável auxiliar de tipo string que vai receber o valor
 var result: String
